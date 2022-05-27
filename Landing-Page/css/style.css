@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 850px;
+    background: rgb(7,4,54);
+    background: linear-gradient(90deg, rgba(7,4,54,1) 9%, rgba(9,9,121,1) 25%, rgba(0,212,255,1) 100%);
+  
+}
+
+.menu{
+    width: 100%;
+    height: 70px;
+    background-color: #085066;
+    position: fixed;
+}
+
+.imgMenu{
+    display: flex;
+    width: 550px;
+    top: 248px;
+    z-index: 100;
+    left: 0px;
+    
+  
+}
+
+.pagina{
+    width: 100%;
+    height: 850px;
+    background-color: #9ea1a5;
+    color: #47525E;
+    font-family: Roboto;
+    font-size: 21px;
+    line-height: 27px;
+    text-align: left;
+    
+}
+
+.sep1{
+    width: 100%;
+    height: 150px;
+    top: 60px;
+    background-color: #45F0F0;
+    color: #47525E;
+    font-family: Ubuntu Condensed;
+    font-size: 66px;
+    line-height: 85px;
+    text-align: left;
+    
+}
+img{
+    width: 140px;
+
+
+}
+
+.sep2{
+    width: 100%;
+    height: 5px;
+    background-color: #ffffff;
+    
+}
+
+.sep3{
+    width: 100%;
+    height: 70px;
+    background-color: #085066;
+    
+    
+}
+
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #085066;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    display: flex;
+    margin-left: 800px;
+  }
+.sep4{
+    width: 100%;
+    height: 5px;
+    background-color: #ffffff;
+    
+} 
+.sep5{
+    width: 100%;
+    height: 180px;
+    top: 60px;
+    background-color: #6FC9E4;
+    color: #47525E;
+    font-family: Karla;
+    font-size: 39px;
+    line-height: 57px;
+  
+  text-align: left;
+
+}
+.sep6{
+    width: 100%;
+    height: 5px;
+    background-color: #ffffff;
+}
+.img2{
+    display: flex;
+    width: 550px;
+    height: 350px;
+    position: absolute;
+    bottom: 1;
+    right: 0;
+    left: 10;
+    top: 50;
+    
+}
+
+.sep7{
+    width: 250px;
+    height: 250px;
+    background-color: #111;
+}
+
+
+
+.pagina1{
+    width: 100%;
+    height: 850px;
+    background-color: #6FC9E4;
+}
+
+.pagina2{
+    width: 100%;
+    height: 850px;
+    background-color: #FFF;
+}
+
+.pagina3{
+    width: 100%;
+    height: 850px;
+    background-color: #6FC9E4;
+}
+
+.pagina4{
+    width: 100%;
+    height: 850px;
+    background-color: #FFF;
+}
+
+.pagina5{
+    width: 100%;
+    height: 850px;
+    background-color: #6FC9E4;
+}
+
+
+
+.video{
+    display: flex;
+    width: 550px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: rgb(160, 129, 160);
+}
+
+.play{
+    width: 50px;
+}
+
+
+.final{
+    width: 100%;
+    height: 250px;
+    background-color: #44A2BE;
+}
